@@ -1,0 +1,6 @@
+en git,una rama o branch es ua linea de desarrolo independiente 
+que permite trabajar en nuevasd caracteristicas. correcciones de 
+erroeresd o cualquier modificacion sin afectar directamente larama principal del proyecto 
+
+se crean a partir de una rama existente,generralmente 
+main o master 
