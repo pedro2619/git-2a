@@ -1,0 +1,5 @@
+este es un ejenplo de como agregar o actualizar datos desde git hub y verlos en VS- code 
+para realizar esto utilizamos el comando:
+git pull origin master 
+o si trabajamos en la rama mai
+git pull origin main
